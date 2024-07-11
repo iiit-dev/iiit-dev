@@ -21,8 +21,8 @@ Before diving into college, I already had a solid grip on basic web development 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/iiit-dev"><img src="https://github-readme-stats.vercel.app/api?username=iiit-dev&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="iiit-dev's GitHub stats" /></a>
+<a href="http://www.github.com/iiit-dev"><img src="https://github-readme-stats.vercel.app/api?username=iiit-dev&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true&show_icons=true" alt="iiit-dev's GitHub stats" /></a>
 
 <a href="http://www.github.com/iiit-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iiit-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/iiit-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiit-dev&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/iiit-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiit-dev&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=#0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

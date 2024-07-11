@@ -17,16 +17,13 @@ Before diving into college, I already had a solid grip on basic web development 
 
 <p align="left"> <a href="https://www.github.com/iiit-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ritesh-raj-67011b264/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/clemenza_cooks" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
 ### My GitHub Stats
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=iiit-dev&show_icons=true&theme=vision-friendly-dark">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiit-dev&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
-<a href="http://www.github.com/iiit-dev"><img src="https://github-readme-stats.vercel.app/api?username=iiit-dev&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=292E36&hide_border=true&show_icons=true" alt="iiit-dev's GitHub stats" /></a>
 
 <a href="http://www.github.com/iiit-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iiit-dev&stroke=ffffff&background=292E36&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/iiit-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiit-dev&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=292E36&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+

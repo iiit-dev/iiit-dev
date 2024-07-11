@@ -20,11 +20,7 @@ Before diving into college, I already had a solid grip on basic web development 
 ### My GitHub Stats
 
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=iiit-dev&show_icons=true&theme=vision-friendly-dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiit-dev&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iiit-dev&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=iiit-dev&show_icons=true&theme=vision-friendly-dark">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiit-dev&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=iiit-dev&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark" />
 </p>
-
-<a href="http://www.github.com/iiit-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iiit-dev&stroke=ffffff&background=292E36&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-

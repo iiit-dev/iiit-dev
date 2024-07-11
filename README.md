@@ -20,7 +20,7 @@ Before diving into college, I already had a solid grip on basic web development 
 ### My GitHub Stats
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=iiit-dev&show_icons=true&theme=vision-friendly-dark">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiit-dev&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=iiit-dev&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark" />
+  <img height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=iiit-dev&show_icons=true&theme=vision-friendly-dark">
+  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiit-dev&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="500" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=iiit-dev&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark" />
 </p>

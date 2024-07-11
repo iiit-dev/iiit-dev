@@ -19,7 +19,7 @@ Before diving into college, I already had a solid grip on basic web development 
 
 ### Badges
 
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=iiit-dev&show_icons=true&theme=vision-friendly-dark">

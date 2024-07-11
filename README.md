@@ -1,3 +1,3 @@
 ## Hi there 👋
-**`Web Weaver (MERN Stack Developer & Algorithm Enthusiast)`**
+**`Web Weaver (MERN Stack Developer & an Algorithm Enthusiast)`**
 
